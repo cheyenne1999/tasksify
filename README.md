@@ -69,14 +69,6 @@ task-manager/
 4. **Open your browser**
    Navigate to `http://localhost:3000`
 
-## 📊 Sample Data
-
-The application comes with 3 sample tasks to get you started:
-
-1. **Complete project proposal** (High priority, due in 7 days)
-2. **Review code changes** (Medium priority, completed)
-3. **Update documentation** (Low priority, due in 14 days)
-
 ## 🎯 Usage
 
 ### Creating Tasks
